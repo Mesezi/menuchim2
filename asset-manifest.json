@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/menuchim/static/css/main.986cff6e.css",
-    "main.js": "/menuchim/static/js/main.49c38bbe.js",
+    "main.js": "/menuchim/static/js/main.e57455e6.js",
     "static/js/787.1ed0c42c.chunk.js": "/menuchim/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaves.webp": "/menuchim/static/media/leaves.ede07bf497a06e2fe565.webp",
     "static/media/mesezi.github.io_Flag-Quiz_.png": "/menuchim/static/media/mesezi.github.io_Flag-Quiz_.53f3f692cc90d9f24802.png",
@@ -11,11 +11,11 @@
     "static/media/white-logo.png": "/menuchim/static/media/white-logo.a211ca32a0157aacb6c4.png",
     "index.html": "/menuchim/index.html",
     "main.986cff6e.css.map": "/menuchim/static/css/main.986cff6e.css.map",
-    "main.49c38bbe.js.map": "/menuchim/static/js/main.49c38bbe.js.map",
+    "main.e57455e6.js.map": "/menuchim/static/js/main.e57455e6.js.map",
     "787.1ed0c42c.chunk.js.map": "/menuchim/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.986cff6e.css",
-    "static/js/main.49c38bbe.js"
+    "static/js/main.e57455e6.js"
   ]
 }
