@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/menuchim/static/css/main.5715126e.css",
-    "main.js": "/menuchim/static/js/main.c247da93.js",
+    "main.css": "/menuchim/static/css/main.e19993a7.css",
+    "main.js": "/menuchim/static/js/main.6994cbb7.js",
     "static/js/787.1ed0c42c.chunk.js": "/menuchim/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaves.jpg": "/menuchim/static/media/leaves.74e9b7a16226c63ed51d.jpg",
     "static/media/mesezi.github.io_Flag-Quiz_.png": "/menuchim/static/media/mesezi.github.io_Flag-Quiz_.53f3f692cc90d9f24802.png",
@@ -10,12 +10,12 @@
     "static/media/picture.jpg": "/menuchim/static/media/picture.78cee9028680593132c8.jpg",
     "static/media/white-logo.png": "/menuchim/static/media/white-logo.a211ca32a0157aacb6c4.png",
     "index.html": "/menuchim/index.html",
-    "main.5715126e.css.map": "/menuchim/static/css/main.5715126e.css.map",
-    "main.c247da93.js.map": "/menuchim/static/js/main.c247da93.js.map",
+    "main.e19993a7.css.map": "/menuchim/static/css/main.e19993a7.css.map",
+    "main.6994cbb7.js.map": "/menuchim/static/js/main.6994cbb7.js.map",
     "787.1ed0c42c.chunk.js.map": "/menuchim/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5715126e.css",
-    "static/js/main.c247da93.js"
+    "static/css/main.e19993a7.css",
+    "static/js/main.6994cbb7.js"
   ]
 }
